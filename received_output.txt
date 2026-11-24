@@ -1,0 +1,1 @@
+Network and Data Communications project test over UDP protocol. Checking reliability, sequence numbers, checksum, acknowledgments, timeouts, packet loss, and bit corruption.
